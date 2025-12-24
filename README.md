@@ -1,6 +1,6 @@
 # 𝖢𝖲 𝖲𝗍𝗎𝖽𝖾𝗇𝗍 @ 𝖪𝗂𝗇𝗀𝗌𝗍𝗈𝗇 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 
 
->I document my growth through "learning in public" and hands-on project building.**
+I document my growth through "learning in public" and hands-on project building.**
 
 ---
 
