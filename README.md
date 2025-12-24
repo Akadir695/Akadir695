@@ -19,10 +19,9 @@ I’m an aspiring Software Engineer focused on building secure, cloud-native app
 * **Cloud:** `Azure Cloud` (In Progress)
 
 ---
-
 ### 🔭 Current Focus
-* 🐍 **Advanced Python:** Engineering logic-driven projects and automation.
-* ☁️ **Cloud Architecture:** Scaling infrastructure and exploring cloud security.
+* 🐍 **Python:** Learning the fundamentals and building  projects.
+* ☁️ **Cloud:** Exploring  Cloud and understanding how cloud infrastructure works.
 
 ---
 
