@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Abdulkadir 👋
 
-<!--
-**Akadir695/Akadir695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 First-year Computer Science Student @ Kingston University
 
-Here are some ideas to get you started:
+I'm a developer in the making, focused on building efficient software and exploring the intersection of cloud and security. I believe in "learning in public" and documenting my journey from student to pro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python (Primary), 
+- **Cloud & Security:** CompTIA Security+, Cloud Architecture (In Progress)
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🔭 What I'm Up To
+- 🎓 **Education:** Pursuing my BSc in Computer Science (Class of 2028).
+- 🐍 **Coding:** Mastering Python and building logic-driven projects.
+- ☁️ **Cloud:** Exploring scalable infrastructure and cloud-native development.
+- 📜 **Certs:** Proudly **CompTIA Security+** certified.
+
+---
