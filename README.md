@@ -1,16 +1,17 @@
+# 👨‍💻 CS Student @ Kingston University 
+## 🛡️ CompTIA Security+ Certified
 
-**CS Student @ Kingston University | CompTIA Security+ Certified**
-
-I’m an aspiring Software Engineer focused on building secure, cloud-native applications. I document my growth through "learning in public" and hands-on project building.
+> I’m an aspiring Software Engineer focused on building secure, cloud-native applications. I document my growth through "learning in public" and hands-on project building.
 
 ---
+
 ### 🔭 Current Focus
-*  Learning Python to build projects, and understanding how cloud infrastructure works.
-
+* 🐍 `Learning Python to build projects`
+* ☁️ `Understanding how cloud infrastructure works`
 
 ---
 
-###  Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,12 +19,11 @@ I’m an aspiring Software Engineer focused on building secure, cloud-native app
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-📜 Certifications
+
+### 📜 Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Certified-red?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
-
-
 
 
 
