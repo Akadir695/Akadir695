@@ -25,5 +25,5 @@ I’m an aspiring Software Engineer focused on building secure, cloud-native app
 
 ---
 
-### 🤝 Connect With Me
-[Email](mailto:your-email@abdikadir.aweys.com)
+
+
