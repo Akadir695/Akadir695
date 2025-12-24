@@ -19,7 +19,7 @@ I’m an aspiring Software Engineer focused on building secure, cloud-native app
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Certified-red?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 * **Security:** `CompTIA Security+` (Certified)
-* **Cloud:** `Azure Cloud` (In Progress)
+
 
 ---
 ### 🔭 Current Focus
