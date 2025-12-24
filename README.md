@@ -11,7 +11,7 @@ I'm a developer, focused on building efficient software and exploring the inters
 - **Cloud & Security:** CompTIA Security+, Azure Cloud(In Progress)
 ---
 
-### 🔭 What I'm Up To
+###  What I'm Up To
 - 🐍 **Coding:** Mastering Python and building logic-driven projects.
 - ☁️ **Cloud:** Exploring scalable infrastructure and cloud-native development.
 ---
