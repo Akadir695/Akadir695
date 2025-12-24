@@ -5,7 +5,7 @@ I’m an aspiring Software Engineer focused on building secure, cloud-native app
 
 ---
 ### 🔭 Current Focus
-*  **Python:** Learning Python to build projects, and understanding how cloud infrastructure works.
+*  **:** Learning Python to build projects, and understanding how cloud infrastructure works.
 
 
 ---
