@@ -1,4 +1,3 @@
-# 👋 Hey, I'm Abdulkadir
 
 **CS Student @ Kingston University | CompTIA Security+ Certified**
 
