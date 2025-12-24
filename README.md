@@ -1,17 +1,30 @@
-# Hey, I'm Abdulkadir 👋
+# 👋 Hey, I'm Abdulkadir
 
-### 🚀 First-year Computer Science Student at Kingston University
+**CS Student @ Kingston University | CompTIA Security+ Certified**
 
-I'm a developer, focused on building efficient software and exploring the intersection of cloud and security. I am documenting my journey from student to pro.
+I’m an aspiring Software Engineer focused on building secure, cloud-native applications. I document my growth through "learning in public" and hands-on project building.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python (Primary), 
-- **Cloud & Security:** CompTIA Security+, Azure Cloud(In Progress)
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+* **Security:** `CompTIA Security+` (Certified)
+* **Cloud:** `Azure Cloud` (In Progress)
+
 ---
 
-###  What I'm Up To
-- 🐍 **Coding:** Mastering Python and building logic-driven projects.
-- ☁️ **Cloud:** Exploring scalable infrastructure and cloud-native development.
+### 🔭 Current Focus
+* 🐍 **Advanced Python:** Engineering logic-driven projects and automation.
+* ☁️ **Cloud Architecture:** Scaling infrastructure and exploring cloud security.
+
 ---
+
+### 🤝 Connect With Me
+[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your-email@example.com)
