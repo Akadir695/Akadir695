@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 & 𝚂𝚔𝚒𝚕𝚕𝚜
+###  𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 & 𝚂𝚔𝚒𝚕𝚕𝚜
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
