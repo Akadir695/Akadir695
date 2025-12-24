@@ -1,6 +1,6 @@
 # 𝖢𝖲 𝖲𝗍𝗎𝖽𝖾𝗇𝗍 @ 𝖪𝗂𝗇𝗀𝗌𝗍𝗈𝗇 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 | 𝖢𝗈𝗆𝗉𝖳𝖨𝖠 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒+ 𝖢𝖾𝗋𝗍𝗂𝖿𝗂𝖾𝖽
 
-> I document my journey through **learning in public** and building hands-on technical solutions..
+>I document my growth through "learning in public" and hands-on project building.**
 
 ---
 
