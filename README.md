@@ -1,6 +1,6 @@
 # Hey, I'm Abdulkadir 👋
 
-### 🚀 First-year Computer Science Student @ Kingston University
+### 🚀 First-year Computer Science Student at Kingston University
 
 I'm a developer, focused on building efficient software and exploring the intersection of cloud and security. I am documenting my journey from student to pro.
 
